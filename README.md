@@ -8,7 +8,7 @@ This tool provide 3 methods to encrypt/decrypt the image:
 * Both (the Rail Fence Cipher and Text)
 
 # Code Functionality
-The tool is provide the encryption and decryption of images by utilizing three different algorithms, Rail Fence cipher, image to text, and both. As well as, with the same encryption key the image get decrypted.
+The tool provides encryption and decryption of images by utilizing three different algorithms, Rail Fence cipher, image to text, and both. As well, with the same encryption key, the image gets decrypted.
 
 # Screenshots
 ![im1](https://user-images.githubusercontent.com/126514202/221803526-2f141e4e-ff6c-475e-9833-7ed855d44a26.png)
